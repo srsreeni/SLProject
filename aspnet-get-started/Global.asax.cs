@@ -16,6 +16,7 @@ namespace aspnet_get_started
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            //do nothing
         }
     }
 }
